@@ -11,10 +11,14 @@
             "id": "3bbf270d503b1fa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "alow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "alow"
             }
           }
         ]
@@ -183,10 +187,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9c5e321cc26dceb7",
+  "active": "3bbf270d503b1fa8",
   "lastOpenFiles": [
-    "teste do macos.md",
+    "alow.md",
     "teste.md",
+    "teste do macos.md",
     "Olar.md",
     "Vou organizar assim/Maisum.md.md",
     "flag_fetch.md",

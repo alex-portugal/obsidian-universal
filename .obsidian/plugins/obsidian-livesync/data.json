@@ -15,7 +15,7 @@
   "minimumChunkSize": 20,
   "longLineThreshold": 250,
   "showVerboseLog": false,
-  "suspendFileWatching": true,
+  "suspendFileWatching": false,
   "trashInsteadDelete": true,
   "periodicReplication": false,
   "periodicReplicationInterval": 60,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4yYaSoD2c/eBUN0C+8V9bwN2Eh4d3g7LL3nArP7A0vrTWluT9u5JiN7mhwYzWbTytkkMiDYv6n5BZ9/Cyc1VGz1y/CDVA/ObZWpVw73hlDsBWDPx8VD+xVy9nvzsGBIRHpYfbH1",
-  "encryptedCouchDBConnection": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4yLDYLMfze6ZoJsKowXk77LWeJfwY3ryqXAOG5LvZx+FjUDPypi7zHv+74NDgYNXyTiZex42JPgutEOCqvC9d/rkiwvQgVCha1r8Aw10uyzO6xA/DQ4fdbWNxn7nfD+Y6T3g7VxXG9gylYxVdD6zL4klT1siOjHQSPxIxC/jBF7iVlD7ROiry1jaFsJQsMj0iDP4tUYOp7oCYp3Bi31SExXQzpMg23IkrBEcT/tWeV9Bbtx5BkZWgj0xtkSc7dp3uzzc/AAgOhtROxy/PoCBoBvJVlj23b6uL/vBRI14URQybsMNo1M8SzpLNvn/cb6omub/6SCsQozhJcB6U4wMiBa5G+37e3M0e6TjPXEYkIVnVQXT/9jc3Y7E3lCaR94MzNa94cKVqkUY4eltXqUN+drm7vFdD/XselGrI3anWFLXepEo1h8WLTxBLnpiO6eEZPpJ5ppE/cTT+R8VsxQur4uP3/iklxv7fwdNQZ0pAnwmw6FBZ1niHbbKL70Ppnh1idU++3RuS0SkzKAuIk9ln0OFRXIDVZQTa1k9dV31K/CvHGOYMslp1HevkU7cQ3NZLQ/srW9Dic2XXT5ZCsIETN3x3ButRLxXX8Mgg8+skqQiPJfG2TfJXlWTmnKe792/SdFl91ilr9oyBQwufPTkQM3w8r9Pb1WSD3sB/Wg8IG7n+eQPEim6OihfRyp",
+  "encryptedPassphrase": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4y+6wh7KLdYpO3lEOQK8r/7Nj140r5ZJSewsmyTVZqxR1iLu8grp7kj2aIBPP5pD1d6Ws3jaR8Hq5DqKgc5dfOLw4slsGpm4ZzP6i32uk6wPaYWlQLVgbR382mZ/CWI+b/ivg8S",
+  "encryptedCouchDBConnection": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4wnwb/haN1sJxG3z1NwXUaBv0hgPC/oKoZxfC2CpFZaebSgCydlMM2OrQCJyhjzqkuLNyved9dnBOt0vNYxOJRwxWxrvW1gl5eSb//tIgYRK10SdGQgXbNqMn+cXEkylB5WfQOW6TAeAjFgajHLqD8dB9VAmEd/0AYUqqrc12xSJGmUV3ksgojma/Cx+7gRHvqjE9VqEV9a/Ou1QvVUYxItKivQ7Gq/9xQQo9w4q1ZVv5KadPz7TnSBdU/cY2eJGVY53KH0uyCrn+a5TLuZH+IYOdK2qyjRRncf0rv8GBbVS2NkzEqPBrew6w9BP+DjrLeMuKEK/tGtrC4yZ0fRWBPZujRNLGUvVwf7lpXTAggd2wi1/v+zoHXbQBGy9CB39lcFGugsJ0tBDbh/3ZZdzJZ+6wIbYKrwFq4o5TEoByWMAPTU+BZ7hvrgKxdG3EbBeBTXrGIYbGKoi3+WBiampdDbMKz1QmLyGB2xI+uAPXoQLB7cVeRTSKcOyg1zq8sQH3u5K444aNo5dG+52ERE7mpMWqbtkxev4b3+uHdh48n9xkRj96ronRbEglOQHwGVIzmfeVs9ug+/3PyIVyQS3mYbVvP3XqhwEt8Q8ClsD3PeuMvMpxJcSVj2qpZqX8GzZJEK5IEnUWA6k7KZHML1bhQXG3MXLD77FisJHzOYGk7mswIphPdiiNYB0ObV",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "legacy-couchdb": {
       "id": "legacy-couchdb",
       "name": "CouchDB Remote",
-      "uri": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4wtIAc0fPnDwZYl3hwaJd/LVCf6oPEIBRyKiLmdYDa1ngl3qTpewdQ3dBbacuJbAOWSR5qZBjAdtLHX+urO47+mzpyfZUCq2Iz9C5O+V59nAgCYUHN+EHyBejBFrjjQsYPusOPvNprqDQZOg99GhmKNP1fFMGg+iw6jpHDd1AiOaHo8TR6Xh0SybL1RLMDw8SZkLjtk6kY=",
+      "uri": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4zlAPgPRb9Aijuk9KVGj4/pE2AXtV3bKDtbNkm1d5foq8S2lElhquTDeBqgwFTUhzC1jyKbLnoq51TDieYQR4JeEkMncw7lJAiwY2l83pQYcD9PClfdsMh4ov3qyvLZzlnjat7+GEIlnmv/oI93J1o8Z2Gx/IBLKfR/HiLMllxYY0VXauDMdUbeDBQBf002yiD6UEZVWHo=",
       "isEncrypted": true
     }
   },
