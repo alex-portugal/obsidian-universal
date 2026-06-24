@@ -1,1 +1,0 @@
-E assim nasceu o Obsidian 2026

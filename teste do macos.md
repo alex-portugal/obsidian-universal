@@ -1,0 +1,1 @@
+Gostaria muito de testar como essa sincronia do Obsidian funciona. A principio a acentuação está funcionando perfeitamente. Ação e movimento são importantes.
