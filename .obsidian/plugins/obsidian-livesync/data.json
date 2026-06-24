@@ -15,14 +15,14 @@
   "minimumChunkSize": 20,
   "longLineThreshold": 250,
   "showVerboseLog": false,
-  "suspendFileWatching": false,
+  "suspendFileWatching": true,
   "trashInsteadDelete": true,
   "periodicReplication": false,
   "periodicReplicationInterval": 60,
   "syncOnFileOpen": false,
   "encrypt": true,
   "passphrase": "",
-  "usePathObfuscation": false,
+  "usePathObfuscation": true,
   "doNotDeleteFolder": false,
   "resolveConflictsByNewerFile": false,
   "batchSave": false,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$FIvEktNDrVny74tbXZ/Q7+87Ttqxs6BzO62P6srXt7ndCsKnprMI1WcjfPVfJo/8ykhLqN21gvL6QcAFicAMTXXE/aID+10aidphnYrdzahe8Oob8fmatQuagyH2x9whDegwIRI4AfPLdFpiOmwuRBzGCbNebliOilpT1tfiywOJMA/p",
-  "encryptedCouchDBConnection": "%$FIvEktNDrVny74tbXZ/Q7+87Ttqxs6BzO62P6srXt7lbCG4YqU3ME8JxMyANadOhKMHwWJDgjV8JmBOaXI2CmEneO9ywzsFIafehmj0i9N6OhVifi7YRrf4Z2xXKj3z0/f5VBj7AhYFgDsZJyjhjuY7a1ik8+p0TLiTpfxl0Enu+nFudnT6iSMowL0ZuEKcvQfhL/0BszGv0UZpLlXwCU4Ov8ppTzoEcRy7hnk36kPIrKN+CDKrtmDtqlRJKsxQNCZUcasB2LJiOP0Ddyg/CX9+AH+atAYEgVo0HJZdvzNxqd2gqlZjnoQpLNvdFEv7cjNHzxM29O224CXFYOma3deEdGXfQOP6E8aGV7IHBQmpq/ALUmQ6DGAQcdrqs1OMpKZURHlb7fngDdrs8I6PvVi7Nvczf4Ma7vFZQvaWuT7GKFi4dpLLCXCuzSu/CO3HZZfysmybCHeLRrF6TOW84j/lnhhkuRFiTi8ZetaPKfy6MDv/qIDxdjOO1IvDCMf9KbqxbukI6/oxTUiRJc4WFNIOu6GJAc663eIwZxxXKaPAdCaVGG6NxxJdoc68X62aDi6uf7fFVrzIYknRKP3SoConlNSjMe2dyOKT8OCAR8YOl96ogt6RWuUu5+3h14itRL/Ux/T2EK/UcE4BU9snUO3dAaDrmJ5Ad2KBJZUWPhOaFkY02EIGr85sQ/lwBedpLNEW1EEbQregx0bwhzofKgX2u2mZCjpodmcjZ",
+  "encryptedPassphrase": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4yYaSoD2c/eBUN0C+8V9bwN2Eh4d3g7LL3nArP7A0vrTWluT9u5JiN7mhwYzWbTytkkMiDYv6n5BZ9/Cyc1VGz1y/CDVA/ObZWpVw73hlDsBWDPx8VD+xVy9nvzsGBIRHpYfbH1",
+  "encryptedCouchDBConnection": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4yLDYLMfze6ZoJsKowXk77LWeJfwY3ryqXAOG5LvZx+FjUDPypi7zHv+74NDgYNXyTiZex42JPgutEOCqvC9d/rkiwvQgVCha1r8Aw10uyzO6xA/DQ4fdbWNxn7nfD+Y6T3g7VxXG9gylYxVdD6zL4klT1siOjHQSPxIxC/jBF7iVlD7ROiry1jaFsJQsMj0iDP4tUYOp7oCYp3Bi31SExXQzpMg23IkrBEcT/tWeV9Bbtx5BkZWgj0xtkSc7dp3uzzc/AAgOhtROxy/PoCBoBvJVlj23b6uL/vBRI14URQybsMNo1M8SzpLNvn/cb6omub/6SCsQozhJcB6U4wMiBa5G+37e3M0e6TjPXEYkIVnVQXT/9jc3Y7E3lCaR94MzNa94cKVqkUY4eltXqUN+drm7vFdD/XselGrI3anWFLXepEo1h8WLTxBLnpiO6eEZPpJ5ppE/cTT+R8VsxQur4uP3/iklxv7fwdNQZ0pAnwmw6FBZ1niHbbKL70Ppnh1idU++3RuS0SkzKAuIk9ln0OFRXIDVZQTa1k9dV31K/CvHGOYMslp1HevkU7cQ3NZLQ/srW9Dic2XXT5ZCsIETN3x3ButRLxXX8Mgg8+skqQiPJfG2TfJXlWTmnKe792/SdFl91ilr9oyBQwufPTkQM3w8r9Pb1WSD3sB/Wg8IG7n+eQPEim6OihfRyp",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "legacy-couchdb": {
       "id": "legacy-couchdb",
       "name": "CouchDB Remote",
-      "uri": "%$FIvEktNDrVny74tbXZ/Q7+87Ttqxs6BzO62P6srXt7mYOYekqIIsc1l4YHb9eN4CJh8SWIUPqF+5znM81SLJ82PImVnH1YaJ6+jArqCQtv3tHzTWtzByIhDFBW9nfhNzXBb72ugl4r/a4nR+oeQ8bxTdgPb6trtCpXXuRoDs2XVuOvuuJtTmcupDlB2zf9GaBjhhYRYcgiT3813ccPJkBRDcjKiSGlNndcZRcUTvDhY6puOpulI=",
+      "uri": "%$/bAn/ZfjCqqIBfFFNH5EC6eI6+pdYf+WMJmPcW2q+4wtIAc0fPnDwZYl3hwaJd/LVCf6oPEIBRyKiLmdYDa1ngl3qTpewdQ3dBbacuJbAOWSR5qZBjAdtLHX+urO47+mzpyfZUCq2Iz9C5O+V59nAgCYUHN+EHyBejBFrjjQsYPusOPvNprqDQZOg99GhmKNP1fFMGg+iw6jpHDd1AiOaHo8TR6Xh0SybL1RLMDw8SZkLjtk6kY=",
       "isEncrypted": true
     }
   },
@@ -90,7 +90,7 @@
   "concurrencyOfReadChunksOnline": 40,
   "minimumIntervalOfReadChunksOnline": 50,
   "hashAlg": "xxhash64",
-  "suspendParseReplicationResult": false,
+  "suspendParseReplicationResult": true,
   "doNotSuspendOnFetching": false,
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
@@ -118,7 +118,7 @@
   "enableChunkSplitterV2": false,
   "disableWorkerForGeneratingChunks": false,
   "processSmallFilesInUIThread": false,
-  "notifyThresholdOfRemoteStorageSize": 2000,
+  "notifyThresholdOfRemoteStorageSize": -1,
   "usePluginSyncV2": false,
   "usePluginEtc": false,
   "handleFilenameCaseSensitive": false,
@@ -171,5 +171,5 @@
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
   "maxMTimeForReflectEvents": 0,
-  "tweakModified": 1782284454599
+  "tweakModified": 1782286623119
 }
