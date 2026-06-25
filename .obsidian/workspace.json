@@ -11,14 +11,10 @@
             "id": "3bbf270d503b1fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -187,17 +183,25 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "3bbf270d503b1fa8",
+  "active": "9c5e321cc26dceb7",
   "lastOpenFiles": [
+    "alow/Estou escrevendo no windows.md",
+    "pasta 2/alexandre.md",
+    "pasta 2",
+    "alow/tat.md",
+    "alow",
+    "hjgjhg/Untitled.md",
+    "hjgjhg",
+    "tat.md",
+    "alexandre.md",
     "alow.md",
-    "Untitled.md",
+    "Estou escrevendo no windows.md",
     "flag_rebuild.md",
     "teste.md",
     "teste do macos.md",
     "Olar.md",
     "Vou organizar assim/Maisum.md.md",
     "flag_fetch.md",
-    "Estou escrevendo no windows.md",
     "Se eu alterar aqui o que acontece....md",
     "FIAT LUX 2.md",
     "!!!.md",
